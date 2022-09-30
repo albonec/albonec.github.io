@@ -1,2 +1,2 @@
 # alinux.com
-source code for small personal website written in Python and FLask
+source code for small personal website written in Python and Flask
