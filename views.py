@@ -1,21 +1,11 @@
-from flask import Blueprint, render_template, request, jsonify, redirect, url_for
+from flask import Blueprint, render_template
 
 views = Blueprint(__name__, "views")
 
 @views.route("/")
+def main():
+    return render_template("index.html");
+
+@views.route("/Home.html")
 def home():
-    return render_template("index.html", name="name");
-
-@views.route("/json")
-def getJson():
-    return jsonify({'name': 'vladimir', 'soviet': True})
-
-
-@views.route("/data")
-def getIncomingData():
-    data = request.json
-    return jsonify(data)
-
-@views.route("/go-to-homepage")
-def goToHomepage():
-    return redirect(url_for("views.getJson"))
+    return render_template("Home.html");
