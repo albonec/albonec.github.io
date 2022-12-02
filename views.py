@@ -14,6 +14,6 @@ def academics():
 def athletics():
     return render_template("Athletics.html")
 
-@views.route("/Hobbies+Interests.html")
+@views.route("/Other_Pursuits.html")
 def hobbies_interests():
-    return render_template("Hobbies+Interests.html")
+    return render_template("Other_Pursuits.html")
