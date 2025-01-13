@@ -261,24 +261,15 @@ footer {
     align-items: center;
 }
 
-@media only screen and (min-width: 1024px) {
-    .sidebar-footer {
-        position: absolute;
-        left: calc(12.5%);
-        right: calc(87.5%);
-        bottom: 0;
-        height: calc(9%);
-        width: calc(100% - 20px);
-        overflow: hidden;
-        display: flex;
-        align-items: center;
-    }
+sidebar-footer {
+  position: absolute;
+    left: calc(12.5%);
+    right: calc(87.5%);
+    bottom: 0;
+    height: calc(9%);
+    width: calc(100% - 20px);
+    overflow: hidden;
+    display: flex;
+    align-items: center;
 }
-
-@media only screen and (max-width: 1023px) {
-    .sidebar-footer {
-        display: none;
-    }
-}
-
 
