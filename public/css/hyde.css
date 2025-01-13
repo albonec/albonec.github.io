@@ -248,3 +248,28 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+footer {
+  position: absolute;
+    left: calc(50%);
+    right: calc(75%);
+    bottom: 0;
+    height: 100px;
+    width: calc(100% - 20px); /* Adjust width to fit the screen, considering left padding */
+    overflow: hidden;
+    display: flex;
+    align-items: center; /* Align items vertically in the center */
+}
+
+sidebar-footer {
+    position: absolute;
+    left: calc(12.5%);
+    right: calc(87.5%);
+    bottom: 0;
+    height: 100px;
+    width: calc(100% - 20px); /* Adjust width to fit the screen, considering left padding */
+    overflow: hidden;
+    display: flex;
+    align-items: center; /* Align items vertically in the center */
+}
+
