@@ -266,7 +266,7 @@ sidebar-footer {
     left: calc(12.5%);
     right: calc(87.5%);
     bottom: 0;
-    height: 100px;
+    height: calc(9%);
     width: calc(100% - 20px); /* Adjust width to fit the screen, considering left padding */
     overflow: hidden;
     display: flex;
