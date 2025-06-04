@@ -16,24 +16,24 @@ I'm a violinist with over 11 years of experience performing across classical, ba
 
 ---
 
-### Performance Experience
+## Performance Experience
 
-#### Classical & Baroque Performances
+### Classical & Baroque Performances
 - **Modesto Suzuki Play In's** (2015-2024)
 - **Modesto Suzuki Solo Days** (2019-2024)
 - **Casa De Modesto Group Volunteering** (2020-2024)
 - **Stanislaus County Community Hospice Charity Gala** (2024)
 
-#### Modern & World Music
+### Modern & World Music
 - **Casa De Modesto Group Volunteering** - Pop/Jazz performances (2020-2024)
 - **Stanislaus County Community Hospice Charity Gala** - Jazz/Blues (2024)
 - **ICS Central Valley Diwali Dhamaka Events** - Bollywood music (2023-2024)
 
 ---
 
-### Repertoire
+## Repertoire
 
-#### Classical & Baroque
+### Classical & Baroque
 - **Concerto in A Major** - W.A. Mozart
 - **Concerto in D Major** - W.A. Mozart
 - **Concerto for Two Violins in D minor, BWV 1043** - J.S. Bach
@@ -49,7 +49,7 @@ I'm a violinist with over 11 years of experience performing across classical, ba
 - **La Folia** - A. Corelli
 - **Allegro** - J.H. Fiocco
 
-#### Modern & Arranged Works
+### Modern & Arranged Works
 - **The Entertainer** - Scott Joplin
 - **A Thousand Years** - Christina Perri
 - **Hungarian Dance** - J. Brahms *(Self-Arranged)*
@@ -61,7 +61,7 @@ I'm a violinist with over 11 years of experience performing across classical, ba
 - **Santa Lucia** - Sicilian Folk Song
 - **Jesu, Joy of Man's Desiring** - J.S. Bach
 
-#### Musical Styles
+### Musical Styles
 Classical • Baroque • Jazz • Bollywood • Other Modern
 
 <br>
