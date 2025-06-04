@@ -14,6 +14,13 @@ I'm a violinist with over 11 years of experience performing across classical, ba
 - Bronze Winner - National League of Performing Arts Violin Competition
 - Suzuki Violin Certificate of Completion
 
+**Musical Styles:**
+- Classical
+- Baroque 
+- Jazz
+- Bollywood
+- Other Modern
+
 ---
 
 ## Performance Experience
@@ -60,9 +67,6 @@ I'm a violinist with over 11 years of experience performing across classical, ba
 - **La Paloma** - Sebastián Iradier
 - **Santa Lucia** - Sicilian Folk Song
 - **Jesu, Joy of Man's Desiring** - J.S. Bach
-
-### Musical Styles
-Classical • Baroque • Jazz • Bollywood • Other Modern
 
 <br>
 ---
