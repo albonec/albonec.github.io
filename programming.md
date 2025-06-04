@@ -20,7 +20,7 @@ title: Programming & Projects
 
 ### [FOSSMetronome](https://github.com/albonec/FOSSMetronome)
 **Tech Stack:** Java, Android, XML <br>
-**Description:** An open-source Android metronome application with a built-in violin tuner also! <br>
+**Description:** A free, open-source Android metronome application with a built-in violin tuner also! <br>
 
 **Key Features:**
 - User-friendly numpad-based interface to enter precise BPM values
