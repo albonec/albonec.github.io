@@ -26,7 +26,7 @@ title: Programming & Projects
 
 ---
 
-## Additional Technical Skills
+### Additional Technical Skills
 
 **Data Analysis:** matplotlib, numpy for scientific computing and data visualization  
 **Hardware Integration:** CAD design, 3D printing, electronics (soldering, welding, plasma cutting)  
