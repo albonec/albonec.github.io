@@ -3,6 +3,34 @@ layout: page
 title: Programming & Projects
 ---
 
+## Specific Knowledge Areas
+
+**Machine Learning & AI:**
+- TensorFlow, PyTorch, Keras frameworks
+- Computer vision with OpenCV
+- Developed award-winning ML trading algorithm (300% profit margin, 1st place Columbia SHAPE competition)
+
+**Software Development:**
+- Web development with Flask
+- Android mobile development
+- Version control with GitHub
+- Repository administration and project management
+
+**Systems & Infrastructure:**
+- Linux system administration (Ubuntu, Debian, Arch, Gentoo, SUSE)
+- Quantum algorithm design (Columbia SHAPE program)
+- Cybersecurity research focusing on credential integrity and Linux kernel vulnerabilities
+
+---
+
+## Additional Technical Skills
+
+**Data Analysis:** matplotlib, numpy for scientific computing and data visualization  
+**Hardware Integration:** CAD design, 3D printing, electronics (soldering, welding, plasma cutting)  
+**Business Applications:** Financial accounting systems, entrepreneurship, project management
+
+---
+
 ## GitHub Projects
 
 ### [Traduttore Dialettico](https://github.com/albonec/traduttore-dialetto)
