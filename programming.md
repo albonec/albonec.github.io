@@ -5,6 +5,9 @@ title: Programming & Projects
 
 ## Specific Knowledge Areas
 
+### Programming Languages
+**Primary Languages:** Python, Java, Rust, C++, JavaScript, C#
+
 **Machine Learning & AI:**
 - TensorFlow, PyTorch, Keras frameworks
 - Computer vision with OpenCV

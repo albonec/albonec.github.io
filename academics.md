@@ -5,10 +5,13 @@ title: Academics
 
 ## Education
 
-**Stanford Online High School** (Fall 2021-Present)  
+**Purdue University** (Fall 2025-Fall 2029) <br>
+*Bachelor of Science, Electrical and Computer Engineering*
+
+**Stanford Online High School** (Fall 2021-Spring 2025)  
 *High School Student, Class of 2025*
 
-**Modesto Junior College** (Fall 2021-Present)  
+**Modesto Junior College** (Fall 2021-Spring 2025)  
 *Dual Enrollment*
 
 **Johns Hopkins Center for Talented Youth** (Fall 2023-Spring 2024)  
@@ -21,7 +24,7 @@ title: Academics
 
 ## Mathematics
 
-### Advanced Mathematics Coursework
+### Coursework
 - **AP Calculus BC** - Advanced placement calculus covering derivatives, integrals, and series
 - **Multivariable Calculus** - Extension of calculus to functions of multiple variables
 - **Linear Algebra** - Study of vector spaces, linear transformations, and matrix theory
@@ -35,23 +38,17 @@ title: Academics
 
 ## Physics
 
-### Physics Coursework
+### Coursework
 - **AP Physics C: Mechanics** - Advanced mechanics covering kinematics, dynamics, energy, and momentum
 - **AP Physics C: Electricity and Magnetism** - Electromagnetic theory, circuits, and field applications
 - **Light & Heat (Thermodynamics)** - Study of thermal properties, heat transfer, and thermodynamic processes
 - **Modern Physics** - Introduction to quantum mechanics, relativity, and atomic structure
 
-### Applications
-My physics background directly supports my work in robotics (FTC 5206, FRC 4014) where I apply mechanical principles to robot design and programming of motion control systems.
-
 <br>
 
 ## Computer Science
 
-### Programming Languages
-**Primary Languages:** Python, Java, Rust, C++, JavaScript, C#
-
-### Advanced Computer Science Coursework
+### Coursework
 - **AP Computer Science A** - Object-oriented programming fundamentals and data structures
 - **Advanced Topics in CS: Computer Systems** - Low-level programming, operating systems, and computer architecture
 - **Problem Solving and Programming 2** - Advanced algorithmic problem-solving techniques
@@ -65,8 +62,3 @@ My physics background directly supports my work in robotics (FTC 5206, FRC 4014)
 - **Spanish for Spanish Speakers 1 & 2** (Formal coursework)
 
 ---
-
-## Academic Achievements
-- **Columbia SHAPE Summer Program** - Accepted to highly competitive program (sub-10% acceptance rate)
-- **National High School Journal of Science Research Intern** - Selected from 750+ applicants (6 total accepted)
-- **First Place** - Columbia SHAPE ML Trading Algorithm Competition (300% profit margin over second place)
