@@ -38,5 +38,7 @@ title: Programming & Projects
 - Turn on F3+B to see all invisible players and entities.
 - Fully multithreaded with no slowdowns.
 
+---
+<br>
 
 ## Freelancing
