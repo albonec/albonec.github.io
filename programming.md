@@ -6,8 +6,8 @@ title: Programming & Projects
 ## GitHub Projects
 
 ### [Traduttore Dialettico](https://github.com/albonec/traduttore-dialetto)
-**Tech Stack:** HTML5/CSS3, JavaScript, Pandas 
-**Description:** Lightweight, static web app which translates between Standard Italian and Italy's many dialects!
+**Tech Stack:** HTML5/CSS3, JavaScript, Pandas <br>
+**Description:** Lightweight, static web app which translates between Standard Italian and Italy's many dialects! <br>
 
 **Key Features:**
 - Algorithmic translation using a modified word-swapping algorithm
@@ -19,8 +19,8 @@ title: Programming & Projects
 ---
 
 ### [FOSSMetronome](https://github.com/albonec/FOSSMetronome)
-**Tech Stack:** Java, Android, XML  
-**Description:** An open-source Android metronome application with a built-in violin tuner also!
+**Tech Stack:** Java, Android, XML <br>
+**Description:** An open-source Android metronome application with a built-in violin tuner also! <br>
 **Key Features:**
 - User-friendly numpad-based interface to enter precise BPM values
 - 4-string violin tuner
@@ -31,12 +31,12 @@ title: Programming & Projects
 ---
 
 ### [AGBClient](https://github.com/albonec/AGBClient)
-**Tech Stack:** Java 
-**Description:** Fully optimized set of Fabric mods for Minecraft 1.20.1 for use on 2b2t.
+**Tech Stack:** Java, Minecraft <br>
+**Description:** Custom Minecraft 1.8.9 client with built-in OptiFine and client-side cheats such as hitboxes for invisible entities and linear zoom. <br>
 **Key Features:**
-- Baritone
-- Sodium and Lithium optimizations for VERY high framerates
-- Fully multithreaded with no slowdowns
+- Fully Linear Zoom (better than OptiFine).
+- Turn on F3+B to see all invisible players and entities.
+- Fully multithreaded with no slowdowns.
 
 
 ## Freelancing
