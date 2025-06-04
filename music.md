@@ -3,8 +3,6 @@ layout: page
 title: Music
 ---
 
-## Music
-
 I'm a violinist with over 11 years of experience performing across classical, baroque, modern, and world music genres. Currently studying at Stanford Online High School (graduating June 2025), I've been trained in the Suzuki method and have expanded into musical arrangement over the past 4 years.
 
 **Training & Education:**
