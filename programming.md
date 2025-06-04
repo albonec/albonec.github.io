@@ -6,7 +6,7 @@ title: Programming & Projects
 ## Specific Knowledge Areas
 
 ### Programming Languages
-**Primary Languages:** Python, Java, Rust, C++, JavaScript, C#
+**Primary Languages:** Python, Java, Rust, C++, JavaScript
 
 **Machine Learning & AI:**
 - TensorFlow, PyTorch, Keras frameworks
