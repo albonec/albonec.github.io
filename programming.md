@@ -20,7 +20,7 @@ title: Programming & Projects
 - Repository administration and project management
 
 **Systems & Infrastructure:**
-- Linux system administration (Ubuntu, Debian, Arch, Gentoo, SUSE)
+- Linux system administration (Ubuntu, Debian, Arch, Gentoo, ARMbian)
 - Quantum algorithm design (Columbia SHAPE program)
 - Cybersecurity research focusing on credential integrity and Linux kernel vulnerabilities
 
